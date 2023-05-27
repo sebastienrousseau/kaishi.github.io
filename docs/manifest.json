@@ -1,0 +1,22 @@
+{
+  "background_color": "#000",
+  "description": "Make beautiful websites with Kaishi, a Shokunin (職人) Static Site Generator starter template.",
+  "dir": "/",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "purpose": "any maskable",
+      "sizes": "512x512",
+      "src": "https://kura.pro/shokunin/images/icons/512x512.png",
+      "type": "image/png"
+    }
+  ],
+  "identity": "/",
+  "lang": "en-GB",
+  "name": "Kaishi",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "/",
+  "start_url": "/",
+  "theme_color": "#fff"
+}
