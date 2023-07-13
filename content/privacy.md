@@ -50,11 +50,11 @@ generator: "Shokunin 🦀 (version 0.0.15)"
 item_description: RSS feed for the site
 item_guid: https://kaishi.one/rss.xml
 item_link: https://kaishi.one/rss.xml
-item_pub_date: "Thu, 12 Jul 2023 15:15:15 GMT"
+item_pub_date: "Thu, 12 Jul 2023 20:20:20 GMT"
 item_title: "RSS"
-last_build_date: "Thu, 12 Jul 2023 15:15:15 GMT"
+last_build_date: "Thu, 12 Jul 2023 20:20:20 GMT"
 managing_editor: "contact@kaishi.one"
-pub_date: "Thu, 12 Jul 2023 15:15:15 GMT"
+pub_date: "Thu, 12 Jul 2023 20:20:20 GMT"
 ttl: "60"
 type: "website"
 webmaster: "contact@kaishi.one"
