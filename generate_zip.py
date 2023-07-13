@@ -7,7 +7,7 @@ def create_zip():
     files = ['README.md']
 
     # Name of the resulting zip file
-    zip_filename = 'docs/kaishi-v0.0.15.zip'
+    zip_filename = 'docs/kaishi.zip'
 
     # Create a new zip file
     with zipfile.ZipFile(zip_filename, 'w') as zipf:
