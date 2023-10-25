@@ -3,7 +3,7 @@ import os
 
 def create_zip():
     # Define the folders and files to include in the zip
-    folders = ['content', 'template']
+    folders = ['_posts', '_layouts']
     files = ['README.md']
 
     # Name of the resulting zip file
