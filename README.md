@@ -84,5 +84,5 @@ Happy coding!
 
 [banner]: https://kura.pro/kaishi/images/titles/title-kaishi.svg "Banner of the Kaishi Starter Template"
 [0]: https://minifunctions.com/ "Mini Functions"
-[1]: https://shokunin.one/ "Shokunin"
+[1]: https://kaishi.one/ "Shokunin"
 [2]: https://www.rust-lang.org/learn/get-started "Rust"
