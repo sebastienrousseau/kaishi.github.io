@@ -50,7 +50,7 @@ viewport: "width=device-width, initial-scale=1, shrink-to-fit=no"
 atom_link: https://kaishi.one/contact/rss.xml
 category: "Software, Static Site Generator, Rust"
 docs: "https://validator.w3.org/feed/docs/rss2.html"
-generator: "Shokunin 🦀 (version 0.0.19)"
+generator: "Shokunin 🦀 (version 0.0.20)"
 item_description: "Contact us today to learn more about how Kaishi can help you build a beautiful and powerful website."
 item_guid: https://kaishi.one/contact/rss.xml
 item_link: https://kaishi.one/contact/rss.xml
